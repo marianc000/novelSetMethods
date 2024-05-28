@@ -1,4 +1,4 @@
-# Fantastic enhancements in the Servlet API 6.0
-Novel features of the omnipresent Servlet API. Why developers hurry to migrate to Servlet API 6.0.
+# Novel methods of Iterator and Set further refine the esthetics of JavaScript
+Now it is even easier to handle NodeLists, Sets and Arrays
 
-Sample code for my post https://marian-caikovski.medium.com/fantastic-enhancements-in-the-servlet-api-6-0-02cefbfb0004
+https://marian-caikovski.medium.com/novel-methods-of-iterator-and-set-further-refine-the-esthetics-of-javascript-d7e47b507200
